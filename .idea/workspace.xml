@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a32c3c13-72e0-4365-8423-0bf9a164ca03" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="ProjectId" id="1hqg7UwGQqDoggGjtxeU2fkbK3f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name=" BeegoProject001" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="BeegoProject001" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <sudo value="true" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="BeegoProject001" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build. BeegoProject001" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="358" y="10" key="#_BeegoProject001" timestamp="1600744240468">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="358" y="10" key="#_BeegoProject001/0.0.1280.680@0.0.1280.680" timestamp="1600744240468" />
+    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600744269690">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1600744269690" />
+    <state x="427" y="19" key="#go_build_BeegoProject001" timestamp="1600744144305">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="427" y="19" key="#go_build_BeegoProject001/0.0.1280.680@0.0.1280.680" timestamp="1600744144305" />
+    <state width="1222" height="161" key="GridCell.Tab.0.bottom" timestamp="1600774323291">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="161" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1600774323291" />
+    <state width="1222" height="161" key="GridCell.Tab.0.center" timestamp="1600774323291">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="161" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1600774323291" />
+    <state width="1222" height="161" key="GridCell.Tab.0.left" timestamp="1600774323291">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="161" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1600774323291" />
+    <state width="1222" height="161" key="GridCell.Tab.0.right" timestamp="1600774323291">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="161" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1600774323291" />
+  </component>
+</project>
