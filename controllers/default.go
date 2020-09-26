@@ -82,3 +82,6 @@ func (c *MainController) Post() {
 	fmt.Println("昵称",person1.Nick)
 	c.Ctx.WriteString("数据解析成功")
 }
+func(c *MainController)Delete(){
+
+}
